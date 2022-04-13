@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "BelemMe-Mini",
+    "slug": "BelemMe-Mini",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "BelemMe-Mini"
+}

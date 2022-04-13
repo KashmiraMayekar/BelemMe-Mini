@@ -1,0 +1,14 @@
+com/belemmemini/MainApplication.java
+ com.belemmemini.MainApplication
+ com.belemmemini.MainApplication$1
+com/belemmemini/BuildConfig.java
+ com.belemmemini.BuildConfig
+com/belemmemini/ReactNativeFlipper.java
+ com.belemmemini.ReactNativeFlipper
+ com.belemmemini.ReactNativeFlipper$1
+ com.belemmemini.ReactNativeFlipper$2
+ com.belemmemini.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/belemmemini/MainActivity.java
+ com.belemmemini.MainActivity

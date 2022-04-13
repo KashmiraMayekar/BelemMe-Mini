@@ -1,0 +1,6 @@
+module Pods_BelemMeMini {
+  umbrella header "Pods-BelemMeMini-umbrella.h"
+
+  export *
+  module * { export * }
+}
